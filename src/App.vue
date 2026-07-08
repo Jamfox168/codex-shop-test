@@ -97,7 +97,7 @@ const visitInfo = [
     <section class="section menu-section" id="menu" aria-labelledby="menu-title">
       <div class="section-heading">
         <p class="eyebrow">招牌推荐</p>
-        <h2 id="menu-title">今晚推荐</h2>
+        <h2 id="menu-title">推荐菜品</h2>
         <p>从清爽开胃菜到适合分享的主菜，菜单跟着市场和季节微调。</p>
       </div>
       <div class="menu-layout">
